@@ -1,0 +1,28 @@
+{
+  "name": "bluebird-sugar",
+  "version": "0.1.1",
+  "description": "Bluebird with some added sugar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcauldwell/bluebird-sugar.git"
+  },
+  "keywords": [
+    "bluebird",
+    "sugar",
+    "retry",
+    "promises",
+    "promise"
+  ],
+  "author": "benjamin.cauldwell@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "1.0.x",
+    "bluebird": "2.9.x",
+    "lodash": "3.9.x",
+    "retry-bluebird": "0.1.x"
+  }
+}
